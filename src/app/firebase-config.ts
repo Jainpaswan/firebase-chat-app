@@ -1,8 +1,8 @@
 export const firebaseConfig = {
-  apiKey: 'AIzaSyAGIKJax6L6ItVgNrVFBSrO2AlAB4NnBA4',
-  authDomain: 'chat-app-bassetti-event.firebaseapp.com',
-  projectId: 'chat-app-bassetti-event',
-  storageBucket: 'chat-app-bassetti-event.firebasestorage.app',
-  messagingSenderId: '443539694562',
-  appId: '1:443539694562:web:cd5245d9acc39c7c770fbb',
+  apiKey: "AIzaSyBetHVjoKyjXRZfm-1-fh6nvscMRiCAx14",
+  authDomain: "chatie-da015.firebaseapp.com",
+  projectId: "chatie-da015",
+  storageBucket: "chatie-da015.firebasestorage.app",
+  messagingSenderId: "670957576161",
+  appId: "1:670957576161:web:c6cca138a36d6dc85e7ca0"
 };
